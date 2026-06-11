@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Equestrian Physio//EN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20260625T220000Z
+DTEND:20260625T230000Z
+SUMMARY:FEA x The Equestrian Physio: Build the Stronger Rider
+DESCRIPTION:Join via Google Meet: https://meet.google.com/gjz-aiir-avv
+LOCATION:https://meet.google.com/gjz-aiir-avv
+UID:fea-webinar-june25-2026@theequestrianphysio.ca
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
