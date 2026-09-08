@@ -9,8 +9,7 @@ DTSTAMP:20260908T203000Z
 DTSTART:20260930T150000Z
 DTEND:20260930T160000Z
 SUMMARY:[TEP] The Position Fix Webinar (11 AM EDT)
-LOCATION:https://meet.google.com/wjm-soxd-srk
-DESCRIPTION:Join with Google Meet: https://meet.google.com/wjm-soxd-srk
+DESCRIPTION:Your join link will be emailed to you the morning of the session and again an hour before it starts.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
@@ -23,8 +22,7 @@ DTSTAMP:20260908T203000Z
 DTSTART:20260930T230000Z
 DTEND:20261001T000000Z
 SUMMARY:[TEP] The Position Fix Webinar (7 PM EDT)
-LOCATION:https://meet.google.com/dse-gjui-jsw
-DESCRIPTION:Join with Google Meet: https://meet.google.com/dse-gjui-jsw
+DESCRIPTION:Your join link will be emailed to you the morning of the session and again an hour before it starts.
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
