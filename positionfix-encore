@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Equestrian Physio//Position Fix//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:positionfix-encore-20261003@theequestrianphysio.ca
+DTSTAMP:20260925T130000Z
+DTSTART:20261003T130000Z
+DTEND:20261003T140000Z
+SUMMARY:[TEP] The Position Fix Webinar (Encore)
+LOCATION:https://meet.google.com/xim-btxi-kcw
+DESCRIPTION:Join with Google Meet: https://meet.google.com/xim-btxi-kcw\n
+ \nWhy Your Position Keeps Slipping (and How to Fix It)\n\nAlmost every r
+ ider has a version of it. The collapsing side you can't seem to shake\, 
+ the swinging lower leg that shows up the second you get tired\, the boun
+ cy sitting trot that never quite lets you settle. Most of us have our co
+ aches repeat the same few cues lesson after lesson\, and no matter how h
+ ard we try\, we keep defaulting back to old habits!\n\nIn this session w
+ e'll break down the most common rider position faults and where they act
+ ually come from. Beyond the surface-level "just soften your hands" or "s
+ houlders back" cues that never seem to click\, diving into the underlyin
+ g strength\, mobility\, and motor control patterns that create the fault
+  in the first place (and what to actually do to change them off the hors
+ e).\n\nYou'll learn how to identify your own position patterns\, why som
+ e corrections stick and others don't\, and how targeted off-horse strate
+ gies can produce bigger changes in your riding than another year of stru
+ ggling to get them to click.
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:[TEP] The Position Fix Webinar (Encore)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
